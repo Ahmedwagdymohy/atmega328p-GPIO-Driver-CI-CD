@@ -1,4 +1,4 @@
-# CI/CD for Embedded Software
+# CI/CD for Embedded Softwaree
 
 ## Overview
 
